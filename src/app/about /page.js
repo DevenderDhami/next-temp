@@ -6,9 +6,11 @@ const About = () => {
       About page
       <p>
         lorem100
+
         fadsfkla
         adsfnansdflka
         awfdjnaklfdna
+
       </p>
     </div>
   )
