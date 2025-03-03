@@ -6,6 +6,7 @@ const About = () => {
       About page
       <p>
         lorem100
+        edititieralfaksdfldal
         
       </p>
     </div>
